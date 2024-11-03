@@ -13,3 +13,8 @@ Recommendations for enhancing the model include expanding the dataset, incorpora
 The model is deployed as a web application. You can access it at the following link:
 
 [Access the Web Application](https://nice-ill-fated-assumption.anvil.app/)
+
+## Graph of the Decision Tree Regressor 
+
+The GraphViz library was utilized for generating the graph of the Decision Tree Regressor, which is included in the file named `Decision_Tree_Regressor_Depth.pdf`.
+
