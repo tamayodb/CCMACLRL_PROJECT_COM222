@@ -8,6 +8,10 @@ To facilitate user interaction, a web application was created using Anvil for mo
 
 Recommendations for enhancing the model include expanding the dataset, incorporating additional environmental variables, and exploring ensemble methods. By empowering users with accurate and accessible forecasting capabilities, this study contributes to more informed agricultural decision-making, addressing food security and economic stability in Nueva Ecija and potentially beyond.
 
+## Google Colab Notebook
+
+You can access the complete analysis and implementation details in the Google Colab Notebook `Crop_Yield_Prediction.ipynb`.
+
 ## Deployment
 
 The model is deployed as a web application. You can access it at the following link:
